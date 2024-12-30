@@ -25,10 +25,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Graddery&theme=vision_friendly_dark" width="285">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graddery&layout=compact&theme=vision-friendly-dark">
 </p>
-
+<br>
 🎓 Дипломные/выпускные проекты : <br>
 <br>
-<br>
+
 <a href="https://github.com/Graddery/graduate-work">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Graddery&repo=graduate-work&theme=vision-friendly-dark">
 </a>
