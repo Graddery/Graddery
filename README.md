@@ -18,7 +18,22 @@
   Привет, я Олег
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graddery&layout=compact&theme=vision-friendly-dark">
+ :fire: My Stats : <br>
+<br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Graddery&theme=vision_friendly_dark">
+<p dir="auto">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Graddery&theme=vision_friendly_dark" width="285">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Graddery&layout=compact&theme=vision-friendly-dark">
+</p>
+
+🎓 Дипломные/выпускные проекты : <br>
+<br>
+<br>
+<a href="https://github.com/Graddery/graduate-work">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Graddery&repo=graduate-work&theme=vision-friendly-dark">
+</a>
+
+
 <!--
 **Graddery/Graddery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
