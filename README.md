@@ -33,6 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Graddery&repo=graduate-work&theme=vision-friendly-dark">
 </a>
 
+<a href="https://github.com/Graddery/portable-weather-station">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Graddery&repo=portable-weather-station&theme=vision-friendly-dark">
+</a>
 
 <!--
 **Graddery/Graddery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
